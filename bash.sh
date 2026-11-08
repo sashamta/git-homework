@@ -6,3 +6,4 @@ do
    let COUNTER=$COUNTER+1 
 done
 echo "Script finished"
+echo "Change from feature-develop"
